@@ -1,0 +1,10 @@
+@import 'mixins';
+@import 'vars';
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@include main;
+
+section {
+	width: 80%;
+}
